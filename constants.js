@@ -12,12 +12,12 @@ const PROJECTS = [
 ];
 PROJECTS.push({
   title: "Digital Banking Management System",
-  description:
+ description:
   "Developed a web-based Digital Banking Management System using Core and Advanced Java. 
    The system allows users to register, log in, and manage bank accounts securely. 
    It supports deposit, withdrawal, balance enquiry, and transaction history features. 
    MySQL is used for secure and reliable data storage."
-
+    
   tech: ["Core Java", "Advanced Java", "MySQL", "HTML", "CSS"],
   link: "https://github.com/vanitha-alopika/Digital-Banking-System",
   image: "https://images.unsplash.com/photo-1605902711622-cfb43c44367f"
@@ -74,5 +74,6 @@ const CONTACT = {
     linkedin: "https://www.linkedin.com/in/d-vanitha-954651280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://share.google/IERmsMweDi9Oiowmv" // User provided this link, assuming it redirects or is correct as per request
 };
+
 
 
