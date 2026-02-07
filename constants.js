@@ -1,4 +1,3 @@
-
 const PROJECTS = [
     {
         title: "Home and Industrial Safety Fire & Gas Leakage Detection System",
@@ -10,19 +9,6 @@ const PROJECTS = [
         image: "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     }
 ];
-PROJECTS.push({
-  title: "Digital Banking Management System",
- description:
-  "Developed a web-based Digital Banking Management System using Core and Advanced Java. 
-   The system allows users to register, log in, and manage bank accounts securely. 
-   It supports deposit, withdrawal, balance enquiry, and transaction history features. 
-   MySQL is used for secure and reliable data storage."
-    
-  tech: ["Core Java", "Advanced Java", "MySQL", "HTML", "CSS"],
-  link: "https://github.com/vanitha-alopika/Digital-Banking-System",
-  image: "https://images.unsplash.com/photo-1605902711622-cfb43c44367f"
-});
-
 
 const EXPERIENCE = [
     {
@@ -33,21 +19,21 @@ const EXPERIENCE = [
         description: "Trained in full stack web development with hands-on experience in building responsive web applications. Worked on front-end (HTML, CSS, JS, React) and back-end (Java, SQL). Strengthened programming and problem-solving skills."
     },
     {
-        type: "Education",
+        typ: "Education",
         title: "B.Tech in ECE",
         place: "IIIT RGUKT RK Valley, Kadapa",
         date: "2021 - 2025",
         description: "CGPA: 7.5"
     },
     {
-        type: "Education",
+        typ: "Education",
         title: "MPC PUC",
         place: "IIIT RGUKT RK Valley, Kadapa",
         date: "2019 - 2021",
         description: "CGPA: 8.26"
     },
     {
-        type: "Education",
+        typ: "Education",
         title: "High School (10th)",
         place: "ZPHS THAVANAMPALLE CHITTOOR",
         date: "2018 - 2019",
@@ -74,6 +60,7 @@ const CONTACT = {
     linkedin: "https://www.linkedin.com/in/d-vanitha-954651280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://share.google/IERmsMweDi9Oiowmv" // User provided this link, assuming it redirects or is correct as per request
 };
+
 
 
 
