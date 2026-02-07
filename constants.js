@@ -11,8 +11,8 @@ const PROJECTS = [
     title: "Digital Banking Management System",
     description: "The Digital Banking Management System is an advanced Java-based application that enables users to securely manage bank accounts, perform transactions, view balance details, and maintain customer records. It supports features like login authentication, fund transfer, transaction history, and account management using JDBC and SQL.",
     tech: ["Advanced Java", "JDBC", "SQL"],
-    link: "https://github.com/your-github-link",
-    image: "https://images.unsplash.com/photo-1601597111158-2fceff292cdc"
+    link: "https://github.com/vanitha-alopika/Digital-Banking-System",
+    
   }
 ];
 const EXPERIENCE = [
@@ -65,6 +65,7 @@ const CONTACT = {
     linkedin: "https://www.linkedin.com/in/d-vanitha-954651280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://share.google/IERmsMweDi9Oiowmv" // User provided this link, assuming it redirects or is correct as per request
 };
+
 
 
 
