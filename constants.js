@@ -1,21 +1,19 @@
 const PROJECTS = [
-    {
-        title: "Home and Industrial Safety Fire & Gas Leakage Detection System",
-        description: "A safety system designed to detect fire and hazardous gas leakage in homes and industrial areas. It uses sensors to continuously monitor the environment and alerts users through a buzzer, RGB LED, and LCD display. It can also trigger automatic actions like door control using servo motors.",
-        tech: ["Arduino UNO", "Gas Sensor (MQ)", "Temp Sensor (TMP36)", "LCD Display", "Buzzer", "RGB LED", "C++"],
-        link: "https://github.com/vanitha-alopika/Home-and-Industrial-Safety-Fire-Gas-Leakage-Detection-System",
-        // Using a placeholder image related to IoT/Safety if real one not provided, 
-        // or a generic valid image URL. For now, a placeholder.
-        image: "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    }
+  {
+    title: "Home and Industrial Safety Fire & Gas Leakage Detection System",
+    description: "A safety system designed to detect fire and hazardous gas leakage.",
+    tech: ["Arduino", "Sensors", "C++"],
+    link: "https://github.com/vanitha-alopika/Home-and-Industrial-Safety-Fire-Gas-Leakage-Detection-System",
+    image: "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f"
+  },
 
-projects.push({
-  title: "Digital Banking Management System",
-  description: "Developed a web-based Digital Banking Management System using Core and Advanced Java. The application provides secure user authentication and enables users to manage bank accounts, perform deposits, withdrawals, balance enquiries, and view transaction history. JSP, Servlets, and JDBC are used for backend processing, while MySQL ensures secure and reliable data storage for efficient online banking operations.",
-  tech: ["Core Java", "Advanced Java", "JSP", "Servlets", "JDBC", "MySQL", "HTML", "CSS"],
-  link: "https://github.com/vanitha-alopika/Digital-Banking-System",
-  image: "https://images.unsplash.com/photo-1605902711622-cfb43c44367f"
-});
+  {
+    title: "Digital Banking Management System",
+    description: "The Digital Banking Management System is an advanced Java-based application that enables users to securely manage bank accounts, perform transactions, view balance details, and maintain customer records. It supports features like login authentication, fund transfer, transaction history, and account management using JDBC and SQL.",
+    tech: ["Advanced Java", "JDBC", "SQL"],
+    link: "https://github.com/your-github-link",
+    image: "https://images.unsplash.com/photo-1601597111158-2fceff292cdc"
+  }
 ];
 const EXPERIENCE = [
     {
@@ -67,5 +65,6 @@ const CONTACT = {
     linkedin: "https://www.linkedin.com/in/d-vanitha-954651280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://share.google/IERmsMweDi9Oiowmv" // User provided this link, assuming it redirects or is correct as per request
 };
+
 
 
