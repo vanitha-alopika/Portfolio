@@ -33,21 +33,21 @@ const EXPERIENCE = [
         description: "Trained in full stack web development with hands-on experience in building responsive web applications. Worked on front-end (HTML, CSS, JS, React) and back-end (Java, SQL). Strengthened programming and problem-solving skills."
     },
     {
-        typ: "Education",
+        type: "Education",
         title: "B.Tech in ECE",
         place: "IIIT RGUKT RK Valley, Kadapa",
         date: "2021 - 2025",
         description: "CGPA: 7.5"
     },
     {
-        typ: "Education",
+        type: "Education",
         title: "MPC PUC",
         place: "IIIT RGUKT RK Valley, Kadapa",
         date: "2019 - 2021",
         description: "CGPA: 8.26"
     },
     {
-        typ: "Education",
+        type: "Education",
         title: "High School (10th)",
         place: "ZPHS THAVANAMPALLE CHITTOOR",
         date: "2018 - 2019",
@@ -74,6 +74,7 @@ const CONTACT = {
     linkedin: "https://www.linkedin.com/in/d-vanitha-954651280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://share.google/IERmsMweDi9Oiowmv" // User provided this link, assuming it redirects or is correct as per request
 };
+
 
 
 
