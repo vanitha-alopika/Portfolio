@@ -30,7 +30,7 @@ const projects = [
 
 const experience = [
   {
-    type: "experience",
+    typ: "experience",
     title: "Full Stack Web Developer Trainee",
     place: "Tap Academy",
     date: "July 2024 – Jan 2025",
@@ -38,21 +38,21 @@ const experience = [
       "Trained in full stack web development with hands-on experience in HTML, CSS, JavaScript, React, Java, and SQL."
   },
   {
-    type: "education",
+    typ: "education",
     title: "B.Tech in ECE",
     place: "IIIT RGUKT RK Valley, Kadapa",
     date: "2021 – 2025",
     description: "CGPA: 7.5"
   },
   {
-    type: "education",
+    typ: "education",
     title: "PUC (MPC)",
     place: "IIIT RGUKT RK Valley, Kadapa",
     date: "2019 – 2021",
     description: "CGPA: 8.26"
   },
   {
-    type: "education",
+    typ: "education",
     title: "SSC (10th)",
     place: "ZPHS Thavanampalle, Chittoor",
     date: "2018 – 2019",
@@ -81,6 +81,7 @@ const contact = {
   github:
     "https://github.com/vanitha-alopika"
 };
+
 
 
 
