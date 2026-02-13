@@ -20,7 +20,7 @@ const EXPERIENCE = [
         typ: "experience", // or education
         title: "Full Stack Web Developer Trainee",
         place: "Tap Academy",
-        date: "July 7, 2025 – Jan 10, 2025",
+        date: "July 7, 2025 – Jan 10, 2026",
         description: "Trained in full stack web development with hands-on experience in building responsive web applications. Worked on front-end (HTML, CSS, JS, React) and back-end (Java, SQL). Strengthened programming and problem-solving skills."
     },
     {
@@ -65,6 +65,7 @@ const CONTACT = {
     linkedin: "https://www.linkedin.com/in/d-vanitha-954651280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://share.google/IERmsMweDi9Oiowmv" // User provided this link, assuming it redirects or is correct as per request
 };
+
 
 
 
